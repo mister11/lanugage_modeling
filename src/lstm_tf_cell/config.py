@@ -1,0 +1,9 @@
+batch_size = 256
+unroll_size = 20
+hidden_size = 512
+num_of_layers = 2
+grad_clip = 2.0
+learning_rate = 0.001
+num_of_epochs = 70
+init_min = -0.1
+init_max = 0.1
